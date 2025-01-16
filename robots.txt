@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://christopherhavens.github.io/al-folio/sitemap.xml
+User-agent: * Disallow: Sitemap: https://christopherhavens.github.io/sitemap.xml
