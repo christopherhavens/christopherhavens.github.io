@@ -32,5 +32,6 @@
         - Continued Fractions
     - title: Cryptography
       items:
-        - Zero knowledge proofs
+        - Information theory
+        - Cryptographic assumption problems
 
