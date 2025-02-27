@@ -5,8 +5,6 @@
       value: Christopher Robin Havens
     - name: Date of Birth
       value: 31st October 1980
-    - name: Languages
-      value: English
 
 - title: Experience
   type: time_table
