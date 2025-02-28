@@ -360,17 +360,6 @@ ninja.data = [{
           window.location.href = "/blog/2015/code/";
         
       },
-    },{id: "post-a-post-with-images",
-      
-        title: "a post with images",
-      
-      description: "this is what included images could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2015/images/";
-        
-      },
     },{id: "news-my-book-siegel-s-continued-fractions-to-be-continued-through-transducers-and-diophantine-analysis-with-carsten-elsner-is-almost-complete-and-will-be-published-later-this-year",
           title: 'My book “Siegel’s Continued Fractions: To Be Continued through transducers and Diophantine analysis”...',
           description: "",
