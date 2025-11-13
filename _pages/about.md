@@ -20,6 +20,6 @@ social: true # includes social icons at the bottom of the page
 
 Christopher R. Havens is a Staff Research Associate for UCLA where he researches in cryptography.  His area of expertise is in continued fractions, where he researches quadratic convergents of transcendental numbers and the characteristic gcd sequences related to their characteristic polynomials.  Christopher enjoys contributing to the computational theory of continued fractions, which is a marriage between continued fractions and automata theory.  His current projects include telescoping periodic (stretch periodic) continued fractions, and a textbook on continued fractions, making his own current research, as well as the research scattered throughout the literature, accessible to a broader audience of undergraduates to researchers.
   
-Christopher is a founder of the <a href='http://prisonmathproject.org'>Prison Mathematics Project</a>, and works towards helping individuals find redemption through transformative experiences from the study and exploration of mathematics. 
+Christopher is a founder of the http://prisonmathproject.org Prison Mathematics Project</a>, and works towards helping individuals find redemption through transformative experiences from the study and exploration of mathematics. 
 
   You can reach me at [firstname]@pmathp.org
